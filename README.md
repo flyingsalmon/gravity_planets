@@ -10,8 +10,8 @@ The weight (or mass) of the object does not affect the acceleration due to gravi
 This means that the drop function does not need to consider the weight of the object, only the gravity value of each planet/location.
 Mass and weight are independent of each other when it comes to free fall. ie. Light objects and heavy objects will fall at the same rate if there are no other forces acting on them, such as air resistance.
 
-# Author: Tony Rahman | trseattle@outlook.com | flyingsalmon.net | October 2023
-# Permissions: Non-commercial use only. Modifications allowed if made available to public domain with no additional restrictions.
-# Attribution: Original author: Tony Rahman | trseattle@outlook.com | flyingsalmon.net | Edited by: <author_name><date>
+Author: Tony Rahman | trseattle@outlook.com | www.flyingsalmon.net | October 2023
+Permissions: Non-commercial use only. Modifications allowed if made available to public domain with no additional restrictions.
+Attribution: Original author: Tony Rahman | trseattle@outlook.com | www.flyingsalmon.net | Edited by: <author_name><date>
 
 Happy learning!
