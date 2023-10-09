@@ -11,7 +11,7 @@ This means that the drop function does not need to consider the weight of the ob
 Mass and weight are independent of each other when it comes to free fall. ie. Light objects and heavy objects will fall at the same rate if there are no other forces acting on them, such as air resistance.
 
 Author: Tony Rahman | trseattle@outlook.com | www.flyingsalmon.net | October 2023
-Permissions: Non-commercial use only. Modifications allowed if made available to public domain with no additional restrictions.
+Permissions: Non-commercial use only. Modifications allowed if modified code is made available to public domain with no additional restrictions.
 Attribution: Original author: Tony Rahman | trseattle@outlook.com | www.flyingsalmon.net | Edited by: <author_name><date>
 
 Happy learning!
